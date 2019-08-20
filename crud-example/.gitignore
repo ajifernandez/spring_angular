@@ -1,0 +1,11 @@
+.metadata
+
+#Compiled
+/target
+
+#Other wks files
+.settings
+
+# System Files
+.DS_Store
+Thumbs.db
