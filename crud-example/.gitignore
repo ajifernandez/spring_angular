@@ -5,6 +5,8 @@
 
 #Other wks files
 .settings
+.classpath
+.project
 
 # System Files
 .DS_Store
